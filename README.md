@@ -21,3 +21,9 @@
 
 4.主程序名为mian
 ```
+
+**请注意 matplotlib 的版本：**
+
+```
+matplotlib==2.2.4
+```
